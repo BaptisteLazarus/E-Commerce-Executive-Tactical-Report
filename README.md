@@ -1,3 +1,6 @@
+## 📊 Power BI Report
+👉 [Download the Power BI Report (.pbix)](https://drive.google.com/file/d/1EdgqWyaSurSMYGHi6rx4p3eO6RVzauk5/view?usp=drive_link)
+
 # E-Commerce Executive & Tactical Report 📊  
 
 This project showcases a **Power BI dashboard** designed to provide insights into e-commerce performance, including **executive-level overviews** and a **tactical report** for website performance analysis.  
@@ -40,3 +43,6 @@ To explore the dashboard:
 
 ---
 🔍 **Author**: [BaptisteLazarus](https://github.com/BaptisteLazarus)  
+
+## 📊 Power BI Report
+👉 [Download the Power BI Report (.pbix)](https://drive.google.com/file/d/1EdgqWyaSurSMYGHi6rx4p3eO6RVzauk5/view?usp=drive_link)
